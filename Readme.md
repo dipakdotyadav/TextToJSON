@@ -1,3 +1,5 @@
+![TextToJSON](Text2image.png)
+
 # TextToJSON - Powerful Text to JSON Converter
 
 A flexible .NET library for converting structured text (like invoices, receipts, logs) into JSON using template-based parsing.
@@ -286,3 +288,4 @@ This project is provided as-is for educational and commercial use.
 ## Contributing
 
 Feel free to extend this library with additional pipes, functions, or data types as needed for your use case.
+
